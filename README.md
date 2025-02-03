@@ -43,8 +43,10 @@ This project utilizes Quantum GIS (QGIS) to create a detailed, user-friendly, an
 
 ## 📸Media
 
-<img src="https://github.com/SuperJPcoder/VJTI-map-QGIS/assets/sample1.jpg" width="300">
-<img src="https://github.com/SuperJPcoder/VJTI-map-QGIS/assets/sample2.jpg" width="300">
+<img src="https://github.com/user-attachments/assets/58c51510-3988-4299-95f2-1ea87204e05c" width="300">
+<img src="https://github.com/user-attachments/assets/3bc6972b-1bbd-4f27-a513-3eb75dd7a604" width="300">
+<img src="https://github.com/user-attachments/assets/77f46404-2c97-45c2-9c99-38f2f4229344" width="300">
+<img src="https://github.com/user-attachments/assets/217c8923-7af9-471e-9035-fc86ee436e23" width="300">
 
 ## 🛠Installation
 
